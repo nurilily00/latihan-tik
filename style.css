@@ -1,11 +1,11 @@
 body {
   background-color: #F0FFFF; /* warna Azure */
-font-family: Arial,Sans-serif; /* Jenishruf yang bersih dan mudah di baca */
+font-family: Arial,Sans-serif; /* Jenis huruf yang bersih dan mudah di baca */
 color: 191970; /* Warna teks utama (Biru Gelap) */
   
   .kartu-profil{
     width: 300px;
-    margin:50px auto; /* 50px jarak atas/nawah, auto menengah kiri/kanan */
+    margin:50px auto; /* 50px jarak atas/Bawah, auto menengah kiri/kanan */
     padding: 20px;
     background-color: white;
     border-radius: 15px; /* membuat sudut menjadi melengkung */
